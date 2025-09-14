@@ -1,0 +1,40 @@
+AI Usage Journal 
+Serra Tak
+stak@terpmail.umd.edu
+Section 0303
+
+Week 1 
+This week, I used two AI tools, both for personal use and school
+Notebooklm, and ChatGPT. with the purpose of assignments, study, and
+to get an idea. 
+
+In the personal aspect I had to create PE class
+cirriculum ideas bulding an exel sheet to stay on track, and based
+on the schedule, I requested a yearly equiment list from GPT.
+couldn't say free version was that successful.
+
+In the school aspect during the 326 discussion session, me and my
+teams earched for a few ideas for our project. The first output
+response was not very good, so I requested more. In the second
+response, one of the ideas was something we had already discussed.
+So we decided to search deeper into it to decide our final topic.
+-since it's connected to my other/personal chat, unfortunately, I'm not able to share it-
+
+Also, for my week 1 exercises, I used GPT as a personal assistant, or maybe like a 
+tutor to help me understand what the requirements want from me. Sometimes 
+(mostly), I sent my code to check if my code matches the correct answer, but I 
+gave the condition to GPT to never give me the right code before I exactly asked 
+it, or until I'm sending the right code. [ https://chatgpt.com/share/68c6658a-45e8-8008-a591-4cccd47683b0 ] The beginning and ending of the chat are 
+totally different from the exercises; just ignore them, please. Anyway, I couldn't solve it, and I decided to ask the TA in the next class.
+
+My last using of AI with nootbookLM. My assignment was to list 5 things that I 
+learned from class during the week. I read all the essays, but I had to make sure 
+I understood the concept correctly. So I uploaded a PDF and sent my ideas/thoughts/
+takeaways based on the reading, and asked if this is really relevant, and checked 
+my understanding, but when I checked right now, it's not showing our chat, only 
+showing the first summary it created. That was my first time using it, and I 
+didn't know that they were not storing all the chat. 
+
+Finally, I'm using the Grammarly free version to fix my grammar and spelling. 
+Since I'm writing fast, have dyslexia, and English is my second language, I can 
+say Grammarly is my best friend.
