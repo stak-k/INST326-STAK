@@ -1,0 +1,28 @@
+AI Usage Journal 
+Serra Tak
+stak@terpmail.umd.edu
+Section 0303
+
+Week 4
+
+I think I used artificial intelligence enough this week. 
+First of all, I placed the crime data in collage park into an excel file,
+but some of the data was very messy and needed to be organized. At this point, 
+I got help from artificial intelligence, in terms of pasting method and editing.
+
+Secondly, I asked the AI ​​to create an object class and methods for the discussion board. 
+As I mentioned in the discussion board, 
+I saw that the more detail I provided, the better the results it gave.
+
+However, in my psychology and introductory course, the AI ​​is very helpful with time management. 
+I provide it with resources and ask it to provide me with notes to study the course. 
+The notes it produces are generally comprehensive and understandable. 
+However, after providing the resource, it's crucial to specify exactly what you want and guide the AI. 
+If the prompts aren't accurate, the topics I want to study can go off the rails.
+
+Finally, because I missed the lecture for the 326 course this week, 
+I wanted to study the material before starting the exercises. 
+I provided resources and chapters mentioned on the week's page, and the lecture file.
+I asked it to explain the classes and methods to me, relying on these resources, 
+as if I had no prior knowledge of the subject. Frankly, it was successful; 
+it taught like a real teacher and encouraged me to actively code while teaching.
