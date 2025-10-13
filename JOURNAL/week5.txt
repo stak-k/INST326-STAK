@@ -1,0 +1,13 @@
+AI Usage Journal 
+Serra Tak
+stak@terpmail.umd.edu
+Section 0303
+
+Week 5
+This week, I used ChatGPT mainly to support my coursework. For my programming class, I asked it to review and explain some parts of my project code, 
+especially when I wasn’t sure if the logic or validation was correct. It helped me identify small errors and understand why certain parts weren’t 
+working as expected.
+
+In addition, I used it to summarize and simplify some psychology readings, 
+which made it easier for me to study and remember key points before class. Overall, 
+it helped me stay more organized and confident with both technical and writing tasks this week.
