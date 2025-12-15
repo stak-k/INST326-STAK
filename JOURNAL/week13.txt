@@ -1,0 +1,13 @@
+AI Usage Journal 
+Serra Tak
+stak@terpmail.umd.edu
+Section 0303
+
+Week 13
+
+This week, I used AI tools as a support resource for my academic work.
+I mainly relied on AI to help clarify assignment instructions. AI was useful
+for brainstorming ideas, checking structure, I also used AI to help understand
+technical concepts by asking follow-up questions when I felt unsure.
+I added the areas I used in the Python project to the ai_collaboration file,
+I also used it to generate practice questions while preparing for my final exams.
